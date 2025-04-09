@@ -1,9 +1,15 @@
 Business Directory Web Application
+
 Group Members:
+
 Hardeep Singh Sohal (500224128)
+
 INDU (500223509)
+
 Mandeep Kaur (500235136)
+
 Veerpal Kaur (500224580)
+
 
 Overview
 Welcome to the Business Directory Web Application!
